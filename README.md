@@ -81,6 +81,8 @@
 
 <br/>
 
+<h1> 📊 My Analytics </h1>
+
 <a href="https://github.com/renansantosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renansantosdev&show_icons=true" />
 </a>
