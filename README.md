@@ -82,10 +82,10 @@
 <br/>
 
 <a href="https://github.com/renansantosdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renansantosdev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renansantosdev&show_icons=true" />
 </a>
 <a href="https://github.com/renansantosdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansantosdev&hide_langs_below=1&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansantosdev&hide_langs_below=1&layout=compact" />
 </a>
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/renansantosdev?label=follow&style=social)](LINK-DO-SEU-GITHUB)
