@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
 
-<div>
+<div style="width: 50%;" align="left">
 <p> 
     I'm a Software Engineer focused on <strong>Java</strong> with <strong>Spring</strong> and <strong>Typescript</strong> with <strong>Angular</strong>. Looking for new knowledge and always wanting to innovate our world making it a better place.
 </p>
@@ -27,8 +27,8 @@
 </p>  
 </div>
 
-<div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
+<div style="width: 50%;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
 
 </div>
