@@ -1,6 +1,6 @@
 <h1> 🖖 Hello, my name is <strong>Renan!</strong> </h1> 
 
-<p style="width: 70%;"> 
+<p> 
     I'm a Software Engineer focused on <strong>Java</strong> with <strong>Spring</strong> and <strong>Typescript</strong> with <strong>Angular</strong>. Looking for new knowledge and always wanting to innovate our world making it a better place.
 </p>
 
@@ -13,13 +13,13 @@
 </p>
 
 <p>
-  <a href="mailto:renanalvessantos1999@gmail.com" alt="Gmail">
+  <a href="mailto:renanalvessantos1999@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/renan-santos-282487177/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/renan-santos-282487177/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-santos-282487177/" /></a>
 
-  <a href="https://www.instagram.com/renansantos.java/" alt="Instagram">
+  <a href="https://www.instagram.com/renansantos.java/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/renansantos.java/"/></a>
 </p>
 
