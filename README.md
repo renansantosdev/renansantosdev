@@ -1,9 +1,6 @@
 <h1> 🖖 Hello, my name is <strong>Renan!</strong> </h1> 
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-
-<div style="width: 50%;" align="left">
-<p> 
+<p style="width: 70%;"> 
     I'm a Software Engineer focused on <strong>Java</strong> with <strong>Spring</strong> and <strong>Typescript</strong> with <strong>Angular</strong>. Looking for new knowledge and always wanting to innovate our world making it a better place.
 </p>
 
@@ -24,14 +21,7 @@
 
   <a href="https://www.instagram.com/renansantos.java/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/renansantos.java/"/></a>
-</p>  
-</div>
-
-<div style="width: 50%;">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-</div>
-
-</div>
+</p>
 
 <h1> 🚀 My Skill's </h1>
 
